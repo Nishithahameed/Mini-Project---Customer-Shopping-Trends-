@@ -19,7 +19,7 @@ Visuals: sales by Category waterfall chart, Sales by Season  chart, location Sal
 
 page 2: Customer Analytics
 KPIs: Total Customers (3.9K), Average Age (44.7), Average Rating (3.75), Average order value ($59.76).   
-Visuals: Purchase distribution by Age Group, Gender donut chart,  Age & gender Category ,average rating satisfaction matrix table.
+Visuals: Purchase distribution by Age Group, Gender pie chart,  Age & gender Category ,average rating satisfaction matrix table.
 
 Page 3: Shopping Insights
 KPIs: Total Orders (4K), Total Revenue ($233.08K), average order value ($59.76), Average Rating (3.75).   
